@@ -54,8 +54,8 @@ git clone https://github.com/Ednisson/take-home-quiz-backend.git
 cd take-home-quiz-backend
 
 # 4. fetch and pull by typing these on cmd
-git fetch
-git pull origin main
+- git fetch
+- git pull origin main
 
 # 5 install node modules folder 
 npm install
